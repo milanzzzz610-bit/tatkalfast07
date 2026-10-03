@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">तत्काल फ़ास्ट असिस्टेंट</string>
+    <string name="dashboard">डैशबोर्ड</string>
+    <string name="profiles">प्रोफाइल</string>
+    <string name="rapid_entry">रैपिड एंट्री</string>
+    <string name="history">इतिहास</string>
+    <string name="settings">सेटिंग्स</string>
+    
+    <string name="tatkal_target_ac">AC तत्काल (पूर्वाह्न 10:00 बजे IST)</string>
+    <string name="tatkal_target_non_ac">नॉन-AC तत्काल (पूर्वाह्न 11:00 बजे IST)</string>
+    <string name="open_irctc_flow">आधिकारिक IRCTC खोलें</string>
+    <string name="rapid_entry_subtitle">1-टैप रैपिड कॉपी सहायक</string>
+    <string name="ewallet_recommendation">IRCTC eWallet अनुशंसित: शून्य पेमेंट गेटवे विलंब और IRCTC पर बिना OTP तत्काल भुगतान।</string>
+    <string name="payment_verify_title">भुगतान विवरण की पुष्टि करें</string>
+    <string name="proceed_to_payment">पुष्टि करें और IRCTC भुगतान खोलें</string>
+    <string name="safety_guarantee">व्यक्तिगत सहायक। कैप्चा या OTP बाईपास नहीं करता।</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tatkal Fast Assistant</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="profiles">Profiles</string>
+    <string name="rapid_entry">Rapid Entry</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+    
+    <string name="tatkal_target_ac">AC Tatkal (10:00 AM IST)</string>
+    <string name="tatkal_target_non_ac">Non-AC Tatkal (11:00 AM IST)</string>
+    <string name="open_irctc_flow">Open Official IRCTC Flow</string>
+    <string name="rapid_entry_subtitle">1-Tap Rapid Copy Assistant</string>
+    <string name="ewallet_recommendation">IRCTC eWallet is the preferred payment: No gateway routing delay and no SMS OTP requirement on IRCTC.</string>
+    <string name="payment_verify_title">Verify Booking Breakdown</string>
+    <string name="proceed_to_payment">Confirm &amp; Proceed to IRCTC Payment</string>
+    <string name="safety_guarantee">Strictly personal assistant. No CAPTCHA or OTP bypass.</string>
+</resources>
